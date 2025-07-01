@@ -18,7 +18,7 @@ httpx for streaming responses
 🚀 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/desktop-llama-chat.git
+git clone https://github.com/totoan/desktop-llama-chat.git
 cd desktop-llama-chat
 
 Set up a virtual environment (optional but recommended):
